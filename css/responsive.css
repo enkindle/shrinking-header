@@ -1,0 +1,84 @@
+/* ==============================================================
+						RESPONSIVE CSS
+================================================================= */
+
+
+/* 3 Column Portfolio Images
+-----------------------------------------------------------------*/
+
+@media (min-width: 441px) and (max-width: 480px) {
+
+	.gallery-item img {
+		height: 296px;
+	}
+}
+
+@media (min-width: 481px) and (max-width: 520px) {
+
+	.gallery-item img {
+		height: 320px;
+	}
+}
+
+@media (min-width: 521px) and (max-width: 640px) {
+
+	.gallery-item img {
+		height: 360px;
+	}
+}
+
+@media (min-width: 641px) and (max-width: 680px) {
+
+	.gallery-item img {
+		height: 192px;
+	}
+}
+
+@media (min-width: 681px) and (max-width: 740px) {
+
+	.gallery-item img {
+		height: 204px;
+	}
+}
+
+@media (min-width: 741px) and (max-width: 820px) {
+
+	.gallery-item img {
+		height: 223px;
+	}
+}
+
+@media (min-width: 821px) and (max-width: 860px) {
+
+	.gallery-item img {
+		height: 248px;
+	}
+}
+
+@media (min-width: 861px) and (max-width: 960px) {
+
+	.gallery-item img {
+		height: 261px;
+	}
+}
+
+@media (min-width: 961px) and (max-width: 1010px) {
+
+	.gallery-item img {
+		height: 293px;
+	}
+}
+
+@media (min-width: 1011px) and (max-width: 1025px) {
+
+	.gallery-item img {
+		height: 310px;
+	}
+}
+
+@media screen and (min-width: 1026px) {
+
+	.gallery-item img {
+		height: 220px;
+	}
+}
